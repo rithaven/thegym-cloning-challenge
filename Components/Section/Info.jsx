@@ -8,7 +8,7 @@ function Info() {
             <div className='max-w-4xl m-auto text-white'>
             <h2 className='py-8 text-2xl font-bold'>Information for students</h2>
             </div>
-        
+            <div></div>
         </div>
     </div>
   )
